@@ -1,7 +1,5 @@
-
-import { cloneElement, useRef, useState } from 'react'
 import logo from '../image/logo.png'
-import {IoMdMenu,IoMdClose} from 'react-icons/io'
+import {IoMdMenu} from 'react-icons/io'
 import '../index.css'
 function Navbar() {
   return (
