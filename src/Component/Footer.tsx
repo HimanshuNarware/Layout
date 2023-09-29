@@ -1,4 +1,4 @@
-import React from 'react'
+
 import logo from '../image/second-logo.png'
 import dark_logo from '../image/thrid logo.png'
 
